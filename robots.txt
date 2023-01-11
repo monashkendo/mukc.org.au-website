@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://monashkendo.github.io/mukc.org.au-website/sitemap.xml
+Sitemap: https://mukc-testing.montymole.io/sitemap.xml
