@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mukc-testing.montymole.io/</loc>
-    <lastmod>2023-01-12T08:10:59+11:00</lastmod>
-  </url><url>
-    <loc>https://mukc-testing.montymole.io/posts/new-website-for-2023/</loc>
-    <lastmod>2023-01-12T08:10:59+11:00</lastmod>
-  </url><url>
-    <loc>https://mukc-testing.montymole.io/posts/</loc>
-    <lastmod>2023-01-12T08:10:59+11:00</lastmod>
-  </url><url>
-    <loc>https://mukc-testing.montymole.io/about-us/</loc>
+    <loc>https://mukc-testing.montymole.io/about/</loc>
   </url><url>
     <loc>https://mukc-testing.montymole.io/archive/</loc>
   </url><url>
@@ -19,7 +10,9 @@
   </url><url>
     <loc>https://mukc-testing.montymole.io/categories/</loc>
   </url><url>
-    <loc>https://mukc-testing.montymole.io/contact-us/</loc>
+    <loc>https://mukc-testing.montymole.io/contact/</loc>
+  </url><url>
+    <loc>https://mukc-testing.montymole.io/</loc>
   </url><url>
     <loc>https://mukc-testing.montymole.io/search/</loc>
   </url><url>
