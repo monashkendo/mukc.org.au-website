@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://mukc-testing.montymole.io/sitemap.xml
+Sitemap: https://monashunikendoclub.org/sitemap.xml
