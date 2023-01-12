@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/posts/new-website-for-2023/</loc>
+    <loc>https://mukc-testing.montymole.io/posts/new-website-for-2023/</loc>
     <lastmod>2023-01-12T08:10:59+11:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://mukc-testing.montymole.io/</loc>
     <lastmod>2023-01-12T08:10:59+11:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://mukc-testing.montymole.io/posts/</loc>
     <lastmod>2023-01-12T08:10:59+11:00</lastmod>
   </url><url>
-    <loc>http://localhost/about-us/</loc>
+    <loc>https://mukc-testing.montymole.io/about-us/</loc>
   </url><url>
-    <loc>http://localhost/archive/</loc>
+    <loc>https://mukc-testing.montymole.io/archive/</loc>
   </url><url>
-    <loc>http://localhost/beginner/</loc>
+    <loc>https://mukc-testing.montymole.io/beginner/</loc>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://mukc-testing.montymole.io/categories/</loc>
   </url><url>
-    <loc>http://localhost/contact-us/</loc>
+    <loc>https://mukc-testing.montymole.io/contact-us/</loc>
   </url><url>
-    <loc>http://localhost/search/</loc>
+    <loc>https://mukc-testing.montymole.io/search/</loc>
   </url><url>
-    <loc>http://localhost/series/</loc>
+    <loc>https://mukc-testing.montymole.io/series/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://mukc-testing.montymole.io/tags/</loc>
   </url><url>
-    <loc>http://localhost/training/</loc>
+    <loc>https://mukc-testing.montymole.io/training/</loc>
   </url>
 </urlset>
